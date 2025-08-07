@@ -1,4 +1,10 @@
 Ammaar is a hjesgkuwefkjbhsgvkljnewskljgnvkjew
+<<<<<<< HEAD
+jyfjygkugkigkii
+Conflict
+kdrihgilehwil
+=======
 kshfkweh
 sjbfjabskjf
 Testing
+>>>>>>> 24361a5ddb2220be2d280f6e427b5c2c922580d4
